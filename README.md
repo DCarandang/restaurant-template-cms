@@ -115,6 +115,8 @@ Now netlify will build and deploy your site whenever you push to git.
 
 ##  Enjoy!!
 
+(Complete Tutorial Template)
+
 #### License
 
 [MIT](LICENSE)
